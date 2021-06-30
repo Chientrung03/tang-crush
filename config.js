@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Bạn à!',
-    introDesc: `bạn à, tớ có điều muốn nói🙄🙄
+    introDesc: `bạn à, tớ có điều muốn nói🙄🙄'
+              
 
 
-    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'bạn có thích tớ không đeyyyy😙',
     desc: 'trả lời cho thật nhennn😗',
